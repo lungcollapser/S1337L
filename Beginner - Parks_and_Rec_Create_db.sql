@@ -1,1 +1,1 @@
-INSERT INTO classes VALUES ("Bard", "An inspiring magician whose power echoes the music of creation.", "d8" "Charisma", "Dexterity & Charisma", "Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords")	
+1```
