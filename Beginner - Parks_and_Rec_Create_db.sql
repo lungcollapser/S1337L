@@ -1,2 +1,1 @@
-INSERT INTO acinspeed(player_id)
-VALUES (7);
+CREATE TABLE skills (player_id INT PRIMARY KEY, Acrobatics INT, AnimalHandling INT, Arcana INT, Athletics INT, Deception INT, History INT, Insight INT, Intimidation INT, Investigation INT, Medicine INT, Nature INT, Perception INT, Performance INT, Persuasion INT, Religion INT, SleightOfHand INT, Stealth INT, Survival INT);
