@@ -1,1 +1,1 @@
-CREATE TABLE bonusattributes (Defenses VARCHAR(100), Inspiration INT, ProficiencyBonus INT, AbilitySaveDC INT, SavingThrows VARCHAR(100));
+CREATE TABLE nameracebackground (Name VARCHAR(100), Race VARCHAR(100), Background VARCHAR(100));
