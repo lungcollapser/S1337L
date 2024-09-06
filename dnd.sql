@@ -1,0 +1,1 @@
+CREATE TABLE bonusattributes (Defenses VARCHAR(100), Inspiration INT, ProficiencyBonus INT, AbilitySaveDC INT, SavingThrows VARCHAR(100));
