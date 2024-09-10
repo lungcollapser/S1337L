@@ -1,1 +1,0 @@
-CREATE TABLE nameracebackground (Name VARCHAR(100), Race VARCHAR(100), Background VARCHAR(100));
