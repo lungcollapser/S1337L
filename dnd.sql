@@ -1,4 +1,6 @@
-INSERT INTO acinspeed
-VALUES ("Joe", 16, "+3", 30); 
+INSERT INTO hpandhd
+VALUES ("James", 12, "1d10"); 
 
-SELECT * FROM acinspeed
+
+
+SELECT * FROM hpandhd
